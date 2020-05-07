@@ -35,7 +35,6 @@ export const Home = () =>(
          <h4>I am a graduate from Newcastle University with a Masters and Bachelors Degree in Computer Science.</h4>
          <h4>I specialise in front-end and mobile app development. </h4>
          <div className="social-container">
-            <h1>Social Follow</h1>
         </div>
      </Container>
         <div className="social">
