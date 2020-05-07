@@ -2,6 +2,12 @@
   "name": "react-bootstap",
   "version": "0.1.0",
   "private": true,
+  "homepages":"https://AndrosZantis.com/androszantis.github.io",
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "react-social-icons": "^4.1.0"
+  },
+ 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
@@ -21,9 +27,8 @@
     "zone.js": "^0.7.4"
   },
   "scripts": {
-    "homepage": "https://myusername.github.io",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy" :"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,9 +48,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0",
-    "react-social-icons": "^4.1.0"
   }
+  
 }

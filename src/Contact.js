@@ -208,7 +208,9 @@ render() {
        </div>
         <div className="messageBox">
             <label htmlFor="messageBox"></label>
-            <textarea id="messageBox" 
+            <textarea id="messageBox"
+             placeholder=" Write a message." 
+ 
             maxlength="250"
             onChange={this.handleChange}
                       />
