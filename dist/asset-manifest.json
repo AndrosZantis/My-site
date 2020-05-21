@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.340cc7fb.chunk.css",
+    "main.js": "/static/js/main.61d9a83a.chunk.js",
+    "main.js.map": "/static/js/main.61d9a83a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d9e872e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d9e872e.js.map",
+    "static/js/2.feda1c37.chunk.js": "/static/js/2.feda1c37.chunk.js",
+    "static/js/2.feda1c37.chunk.js.map": "/static/js/2.feda1c37.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5b918045bccb20769dc13f8b807307a5.js": "/precache-manifest.5b918045bccb20769dc13f8b807307a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.340cc7fb.chunk.css.map": "/static/css/main.340cc7fb.chunk.css.map",
+    "static/js/2.feda1c37.chunk.js.LICENSE.txt": "/static/js/2.feda1c37.chunk.js.LICENSE.txt",
+    "static/media/Picture 1-jammy.png": "/static/media/Picture 1-jammy.4ac3be45.png",
+    "static/media/Picture 2-jammy.png": "/static/media/Picture 2-jammy.8581fe9b.png",
+    "static/media/bridge.jpg": "/static/media/bridge.f8760381.jpg",
+    "static/media/dyne1.jpg": "/static/media/dyne1.d8c65212.jpg",
+    "static/media/dyne2.jpg": "/static/media/dyne2.87ea6f8d.jpg",
+    "static/media/myself.JPG": "/static/media/myself.d73f12b0.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d9e872e.js",
+    "static/js/2.feda1c37.chunk.js",
+    "static/css/main.340cc7fb.chunk.css",
+    "static/js/main.61d9a83a.chunk.js"
+  ]
+}

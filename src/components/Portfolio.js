@@ -2,8 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 import jammy1 from './assets/Picture 1-jammy.png';
 import jammy2 from './assets/Picture 2-jammy.png';
-import dyne2 from './assets/dyne2.jpg';
-import dyne1 from './assets/dyne1.jpg';
+import dyne2 from './assets/dyne2.png';
+import dyne1 from './assets/dyne1.png';
 
 
 //CSS
